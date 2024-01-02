@@ -5,7 +5,7 @@
 | day | project | description |
 | --- | --- | --- |
 | 1 | [band name generator](https://github.com/aishahtheanalyst/100-days-of-code-/blob/main/bandnamegenerator/band_name_generator.py) | learned input and f strings |
-| 2 | [tip calculator] (https://github.com/aishahtheanalyst/](https://github.com/aishahtheanalyst/100-days-of-code-/blob/main/tipcalculator/tip_calculator.py) | mathematical expressions and input |
+| 2 | [tip calculator](https://github.com/aishahtheanalyst/](https://github.com/aishahtheanalyst/100-days-of-code-/blob/main/tipcalculator/tip_calculator.py) | mathematical expressions and input |
 | 3 | https://github.com/aishahtheanalyst/ | if/else, conditional and logical operators |
 | 4 | https://github.com/aishahtheanalyst/ | randomisation lists, and nested lists |
 | 5 | https://github.com/aishahtheanalyst/ | for loops, range |
