@@ -9,7 +9,7 @@
 | 3 | [treasure island](https://github.com/aishahtheanalyst/100-days-of-code-/blob/main/treasureisland/treasure_island.py) | if/else, conditional and logical operators |
 | 4 | [rock, paper, scissors](https://github.com/aishahtheanalyst/100-days-of-code-/blob/main/rockpaperscissors/rock_paper_scissors.py) | randomisation lists, and nested lists |
 | 5 | [password generator](https://github.com/aishahtheanalyst/100-days-of-code-/blob/main/password-generator/password_generator.py) | for loops, range |
-| 6 | htps://github.com/aishahtheanalyst/| functions, while loops |
+| 6 | [escaping the maze] (https://github.com/aishahtheanalyst/100-days-of-code-/blob/main/escaping-the-maze/escaping_the_maze.py) | functions, while loops |
 | 7 | https://github.com/aishahtheanalyst/ | reviewing all concepts |
 | 8 | https://github.com/aishahtheanalyst/| function parameters w/input |
 | 9 | https://github.com/aishahtheanalyst/ | dictionaries and nesting |
