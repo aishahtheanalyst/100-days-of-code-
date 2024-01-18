@@ -12,9 +12,10 @@
 | 6 | [escaping the maze](https://github.com/aishahtheanalyst/100-days-of-code-/blob/main/escaping-the-maze/escaping_the_maze.py) | functions, while loops |
 | 7 | [hangman](https://github.com/aishahtheanalyst/100-days-of-code-/blob/main/hangman/hangman.py)| reviewing all concepts |
 | 8 | [caesar cipher](https://github.com/aishahtheanalyst/100-days-of-code-/blob/main/caesarcipher/caesar_cipher.py)| function parameters w/input |
-| 9 | https://github.com/aishahtheanalyst/ | dictionaries and nesting |
-| 10 | https://github.com/aishahtheanalyst/| functions with outputs and docstrings |
-| 11 | https://github.com/aishahtheanalyst/ | using all knowledge from previous 10 days |
+| 9 | [blind auction](https://github.com/aishahtheanalyst/100-days-of-code-/tree/main/blindauction)| dictionaries and nesting |
+| 10 | [calculator](https://github.com/aishahtheanalyst/100-days-of-code-/tree/main/calculator)| functions with outputs and docstrings |
+| 11 | [blackjack](https://github.com/aishahtheanalyst/100-days-of-code-/tree/main/blackjack) | using all knowledge from previous 10 days |
+| 12 | [number guessing game](https://github.com/aishahtheanalyst/100-days-of-code-/tree/main/number-guessing-game) | scope and global variables |
 | 13 |  |  |
 | 14 |  |  |
 | 15 |  |  |
